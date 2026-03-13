@@ -1,6 +1,6 @@
 ## Olá, sou Lucas Lana 
 
-Desenvolvedor Full Stack em transição de carreira, com foco em construir aplicações completas — do back-end à interface. Apaixonado por boas práticas, código limpo e segurança em aplicações web.
+Desenvolvedor Full Stack em transição de carreira, com foco em construir aplicações completas. Apaixonado por tecnologia e desafios lógicos, o que faz total sentido com quem passou a vida em jogos de estratégia.
 
 Atualmente cursando **Análise e Desenvolvimento de Sistemas (UNICESUMAR)** e **Full Stack Java (EBAC)**.
 
